@@ -13,3 +13,12 @@ h1{
     font-size:66px; 
     text-transform:uppercase;
 }
+
+img{
+    border-radius: 25%;
+    background-size: cover;
+    width: auto;
+    height: 600px;
+
+
+}
